@@ -1,0 +1,38 @@
+_repo: The-Three-Godfathers_51942
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Cornwell, Dean
+    birthdate: 1892
+    deathdate: 1960
+    gutenberg_agent_id: '37101'
+    url: http://www.gutenberg.org/2009/agents/37101
+creator:
+  author:
+    agent_name: Kyne, Peter B. (Peter Bernard)
+    alias: Kyne, Peter Bernard
+    birthdate: 1880
+    deathdate: 1957
+    gutenberg_agent_id: '1858'
+    url: http://www.gutenberg.org/2009/agents/1858
+    wikipedia: http://en.wikipedia.org/wiki/Peter_B._Kyne
+description: ''
+gutenberg_issued: '2016-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51942'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Deserts -- Fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Outlaws -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Christmas stories'
+- !lcsh 'Infants -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+- GITenberg
+title: The Three Godfathers
+url: http://www.gutenberg.org/ebooks/51942
